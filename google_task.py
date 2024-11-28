@@ -17,7 +17,3 @@ def get_from_google():
     return df
 
 res = get_from_google()
-<<<<<<< HEAD
-=======
-#print(res.tail())
->>>>>>> c8acdc3 (key changed)
